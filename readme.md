@@ -7,14 +7,14 @@
 <p>Tecnologias:</p>
 
 <div style="display:flex justify-content:space-around">
-    <img src="img/html-5.png" height="40px" widht="40px">
-    <img src="img/css.png" height="40px" widht="40px">
+    <img src="img/html-5.png" height="40px" widht="50%">
+    <img src="img/css.png" height="40px" widht="50%">
 
 </div>
 
 
 <div style="display:flex justify-content:space-around">
-    <img src="img/c#.png" height="40px" widht="40px">
+    <img src="img/c#.jpg" height="40px" widht="50%">
 </div>
 
 
