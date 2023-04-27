@@ -6,7 +6,8 @@
 <h6>8/9 Semestre</h6>
 <p>Tecnologias:</p>
 <ul>
-    <li></li>
+
+    <li>![html-5](https://user-images.githubusercontent.com/60913160/234995686-6ef507f0-8205-449e-91b6-7e6cc47ef86f.png)</li>
     <li>Boostrap</li>
     <li>C#</li>
     <li>.Net Framework</li>
