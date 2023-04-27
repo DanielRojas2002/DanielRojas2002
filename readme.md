@@ -6,7 +6,7 @@
 <h6>8/9 Semestre</h6>
 <p>Tecnologias:</p>
 
-<div style="display:flex justify-content:center">
+<div style="display:flex justify-content:space-around">
 <img src="img/html-5.png" height="40px" widht="40px">
 <img src="img/html-5.png" height="40px" widht="40px">
 <img src="img/html-5.png" height="40px" widht="40px">
