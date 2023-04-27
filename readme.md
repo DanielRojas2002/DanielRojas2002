@@ -2,15 +2,15 @@
 
 <h4>Acerca de mi:</h4>
 
-<h5>Soy un Estudiante de la carrera de Licenciado en Tecnologias de Informacion</h5>
-
+<h5>Soy un Estudiante de la carrera de Licenciado en Tecnologias de Informacion (FACPYA)</h5>
+<h6>8/9 Semestre</h6>
 <p>Tecnologias:</p>
 <ul>
-    <li>Html,Css</li>
+    <li></li>
     <li>Boostrap</li>
     <li>C#</li>
     <li>.Net Framework</li>
     <li>ASP NET</li>
-     <li>Python</li>
+    <li>Python</li>
 
 </ul>
