@@ -7,17 +7,20 @@
 <p>Tecnologias:</p>
 
 <div style="display:flex justify-content:space-around">
-<img src="img/html-5.png" height="40px" widht="40px">
-<img src="img/html-5.png" height="40px" widht="40px">
-<img src="img/html-5.png" height="40px" widht="40px">
-
-
+    <img src="img/html-5.png" height="40px" widht="40px">
+    <img src="img/css.png" height="40px" widht="40px">
 
 </div>
 
+
+<div style="display:flex justify-content:space-around">
+    <img src="img/c#.png" height="40px" widht="40px">
+</div>
+
+
 <ul>
 
-    <li><img></li>
+   
     <li>Boostrap</li>
     <li>C#</li>
     <li>.Net Framework</li>
