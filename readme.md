@@ -5,6 +5,8 @@
 <h5>Soy un Estudiante de la carrera de Licenciado en Tecnologias de Informacion (FACPYA)</h5>
 <h6>8/9 Semestre</h6>
 <p>Tecnologias:</p>
+
+<div style="display:flex justify-content:center"></div>
 <img src="img/html-5.png" height="40px" widht="40px">
 <img src="img/html-5.png" height="40px" widht="40px">
 <img src="img/html-5.png" height="40px" widht="40px">
