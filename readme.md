@@ -11,7 +11,7 @@ Soy Estudiante de 8 semetre de la carrera Licenciando en Tecnologias de Informac
 
 HTML , CSS, Boostrap
 
-C# (ASP NET, .net framework , Windows Forms)
+C# (ASP NET CORE MVC ,ASP NET, .net framework , Windows Forms)
 
 Python (PYQT5,Pandas,Matplotlib)
 
