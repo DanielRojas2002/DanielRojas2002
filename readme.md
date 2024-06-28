@@ -3,7 +3,7 @@
 
 
 ## 🚀 Acerca de Mi
-Soy Estudiante de 9 semetre de la carrera Licenciando en Tecnologias de Informacion 
+Licenciando en Tecnologias de Informacion 
 
 
 
